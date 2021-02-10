@@ -67,11 +67,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"oqto-chill"
-                }, 
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
