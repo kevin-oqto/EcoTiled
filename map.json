@@ -2300,8 +2300,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":12,
          "firstgid":1215,
-         "source":"TV.tsx"
+         "image":"2012121821402746f.png",
+         "imageheight":256,
+         "imagewidth":384,
+         "margin":0,
+         "name":"TV",
+         "spacing":0,
+         "tilecount":96,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
